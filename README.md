@@ -1,1 +1,4 @@
-Simulador básico de mercado
+Simulador básico de mercado.
+
+English:
+Basic market simulator.
